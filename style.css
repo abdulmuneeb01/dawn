@@ -1,0 +1,22 @@
+.head{
+    background-color: black;
+    color: white;
+}
+#hd{
+    text-align: center
+    ;
+}
+.secmain{
+    background-color: rgb(248, 128, 85);
+}
+.thdmain{
+    width: 22%;
+    background-color: rgb(175, 172, 172);
+}
+.text{
+    width: 75%;
+    background-color: khaki;
+}
+.bottom{
+    background-color:royalblue;
+}
